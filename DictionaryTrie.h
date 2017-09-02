@@ -1,16 +1,3 @@
-/**Name: Gordon Hu
-  *Date: 4/21/17
-  *Assignment: PA2 checkpoint
-  *Description: Contains the method signatures and desriptions for the 
-                implementations of the DictioanryTrie tree such as find
-                and insert and contains an inner class of node
-
-  */
-
-/**
- *  CSE 100 PA3 C++ Autocomplete
- *  Authors: Jor-el Briones, Christine Alvarado
- */
 
 #ifndef DICTIONARY_TRIE_H
 #define DICTIONARY_TRIE_H
@@ -18,12 +5,7 @@
 #include <vector>
 #include <string>
 
-/**
- *  The class for a dictionary ADT, implemented as a trie
- *  You may implement this class as either a mulit-way trie
- *  or a ternary search trie, but you must use one or the other.
- *
- */
+
 class DictionaryTrie
 {
 public:
