@@ -2,7 +2,7 @@
 
 Hey
 
-Thanks for checking this out
+Thanks for checking this out.
 
 This program helps you solve that dreaded 4Pics level. Simply run "./a.out shuffled_unique_freq.dict.txt" on terminal.
 
